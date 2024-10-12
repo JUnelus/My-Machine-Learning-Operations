@@ -1,0 +1,4 @@
+scikit-learn
+flask
+boto3
+pytest
