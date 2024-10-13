@@ -11,6 +11,8 @@ This project demonstrates a simple Machine Learning Operations (MLOps) pipeline,
 - Uses **Flask** for serving the API and **Scikit-learn** for the machine learning model.
 - Infrastructure setup using **AWS CLI**.
 
+![img.png](img.png)
+
 ## Project Structure
 ```
 mlops-platform/
